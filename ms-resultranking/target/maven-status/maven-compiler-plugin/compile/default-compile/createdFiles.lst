@@ -1,0 +1,9 @@
+com\search\result\load\Loaders.class
+com\search\result\document\Book.class
+com\search\result\controller\SearchController.class
+com\search\result\dao\BookRepository.class
+com\search\result\MsSearchApplication.class
+com\search\result\service\SearchService.class
+com\search\result\service\SearchServiceImpl.class
+com\search\result\document\Article.class
+com\search\result\dao\ArticleRepository.class
