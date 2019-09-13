@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>ms-fieldsearch</artifactId>
+	<artifactId>ms-resultranking</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ms-fieldsearch</name>
+	<name>ms-resultranking</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
